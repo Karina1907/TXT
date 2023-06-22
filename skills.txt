@@ -1,0 +1,6 @@
+Terminal
+Git
+Postman
+SQL
+Cient server architecture
+Mobile
