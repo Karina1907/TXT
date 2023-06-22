@@ -1,0 +1,10 @@
+Number
+Severity
+Priority
+Enviroment
+Optional pre-condition
+STR
+AR
+ER
+Atachment
+Comments
