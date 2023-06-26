@@ -1,0 +1,10 @@
+  Number
+  Severity
+  Priority
+  Environment
+  Optional pre-condition
+  STR
+  AR
+  ER
+  Attachment
+  Comments
