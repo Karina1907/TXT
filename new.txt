@@ -1,5 +1,0 @@
-Name: Karina
-Surname: Kostina
-Age: 31
-Pets: none
-Salary: 1000 $
