@@ -1,0 +1,6 @@
+ Terminal
+  Git
+  Postman
+  SQL
+  Client server architecture
+  Mobile
